@@ -1,0 +1,19 @@
+{
+  "name": "hash-avataaars",
+  "version": "0.0.1",
+  "description": "https://github.com/Debrief-BC/hash-avataaars.git",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Debrief-BC/hash-avataaars.git"
+  },
+  "author": "Alfred4Debrief",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Debrief-BC/hash-avataaars/issues"
+  },
+  "homepage": "https://github.com/Debrief-BC/hash-avataaars#readme",
+  "dependencies": {
+    "sha.js": "^2.4.11"
+  }
+}
