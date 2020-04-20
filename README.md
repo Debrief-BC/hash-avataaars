@@ -1,4 +1,4 @@
-## hash-avataaars
+## About:
 
 hash-avataaars generator is a simple app for generating random avatars based on hash and material, the original avatar is designed by avataaars, the library can be [found here](https://github.com/orgordin/vuejs-avataaars).
 
